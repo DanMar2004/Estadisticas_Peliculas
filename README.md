@@ -1,6 +1,5 @@
 # Analisis Estadistico de Dataset de Peliculas (Kraggle)
 ## Exploracion de datos y encontrar informacion importante 
-
 Para este proyecto analizaremos los datos del dataset, crearemos graficos para identificar informacion importante sobre cada columna 
 
 ### Objetivo 
